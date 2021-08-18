@@ -1,5 +1,5 @@
 # AirplaneScanner
-![Demo_img](/images/demo.gif)
+![Demo_img](/images/demo.gif | width=200)
 ## Have you ever wondered what airplane is flying above you?  
 
 With AirplaneScanner you can simply point your phone at it and get all the information you need! Upgrade or supplement your traditional 2D airplane tracking application with this app, bringing the radar to life. 
